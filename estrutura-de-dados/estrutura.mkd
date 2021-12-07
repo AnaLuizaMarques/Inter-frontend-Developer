@@ -1,0 +1,27 @@
+## Estrutura de Dados
+
+---
+
+## Listas
+
+Existem dois tipos de listas, ligadas e duplamente ligadas. A primeira possui nós, onde cada um desses nós conhece o valor que está sendo armazenado em seu interior além de conhecer o elemento posterior a ele, ou seja, os nós são amarrados com a indicação de qual é o próximo nó. Já as listas duplamente ligadas são bidirecionais, os nós possuem informação do próximo elemento e possuem também, informação do elemento anterior.
+
+## Pilhas
+
+A pilha serve como uma coleção de elementos, permitindo o acessis a somente um item de dados armazenado. Existem dois tipos de pilhas, a primeira é a LIFO ou UESPS (Last In First Out / Último que entra Primeiro que Sai). Já a segunda é a FIFO ou PEPS (First In First Out / Primeira que Entra Primeira que Sai).
+
+## Filas
+
+As filas admitem a remoção e inserção de elementos seguindo à regra de operação: o elemento removido será o que está na estrutura a mais tempo (segue a lógica do conceito FIFO) e insere-se o novo elemento na última posição.
+
+## Árvores
+
+É uma estrutura que organiza seus elementos de forma hierárquica, onde existe um elemento que fica no topo da árvore, chamado de raiz e seus subordinados: nós ou folhas.
+
+## Tabela Hash
+
+É uma estrutura especial que associa as chaves de pesquisa à valores. Essa tabela é uma generlização uma ideia de array, porém utiliza uma função denominada Hashing para espalhar os elementos, fazendo com que os memos fiquem de forma não ordenada dentro do "array" que define a tabela.
+
+## Grafos
+
+Grafos são estruturas que permitem programar a relação entre objetos, os objetos são vértices ou nós e os relacionamentos são arestas.

@@ -1,0 +1,33 @@
+# Scrum
+
+## 1. Fundamentos
+
+Método que se diferencia do modelo tradicional para processos, ao invés de focar apenas no atendimento das questões impostas pelo gestor ou chefe sem flexibilização, as metodologias ágeis focam em possuir um líder/facilitador para esses processos, porém de maneira mais flexível onde é possível existir diálogo em grupo, organização e prioprização de tarefas e flexibilização tornando assim o grupo mais ágil e apresentando valor no processo final.
+
+## 2. Manifesto Ágil
+
+"Ser ágil é possuir mindset ágil, estabelecido por 4 valores e fundamentados por 12 princípios e assim sendo manifestada por meio de diversas práticas diferentes."
+
+O manifesto ágil foi criado para mudar o meio de processo através de cascata, criado em 2001, ele foi uma maneira se repensar as maneiras de agilizar softawares. Possuí 4 valores, sendo eles: "indivíduos e interações mais que processos e ferramentas", "responder a mudanças mais que um plano", "software em funcionamento mais que documentação abrangente" e "colaboração com cliente mais que negociação de contratos", consecutivamente.
+
+Além disso, como já citado anteriomente, o manifesto possuí 12 princípios, são eles: "Satisfação do consumidor", "aceite bem mudanças", "entregas frequentes", "trabalhe em conjunto", "confie e apoie", "conversas face a face", "softwares funcionando", "desenvolvimento sustentável", "atenção contínua", "mantenha a simplicidade", "times auto-organizáveis" e "refletir e ajustar".
+
+"Agilidade é responder a mudanças sem traumas - mudanças acontecem o tempo todo, foco no valor. É entregar mais rápido, com mais frequência - visualização antecipada dos resultados e do feedback. É possuir assertividade - maior frequência de planejamento e maior qualidades das entregas."
+
+A transformação ágil diz em relação à pessoas, cujo essa está ligada diretamente com a estratégia corporativa, processos e métodos, liderança e cultura e comportamentos. Ágil não é somente scrum.
+
+## 3. O quê é Scrum
+
+Scrum vêm do estilo de formação da equipe do Hugb. No modelo para processos, as pessoas são divididas em três papéis: product owner, scrum master e time scrum. O primeiro gerencia o produto, conhece bem o Backlog e conhece muito bem o produto e o negócio, aceita e rejeita entregas. Já o scrum master remove impedimento do time, garante o uso do scrum, respeitando e seguindo os valores deste. O time desenvolve os projetos e entrega os desenvolviementos, definem metas e possuem autogestão, entregam os projetos com qualidade e valor.
+
+## 4. Scrum: Rituais e Cerimônias
+
+As cerimônias são: 1. Sprint Planning - É o planejamento da Sprint, a decisão de o que será realizado pelo time, PO prioriza o Product Backlog e o time negocia o que pode ser realizado. 2. Sprint - Execução da Sprint, foco nas entregas do Sprint Backlog e deve se manter o padrão de semanas desde a primeira Sprint. 3. Daily - Reuniões diárias que a equipe sincroniza o que foi feito nas últimas 24h e o que será feito nas próximas 24h, máximo de 15min. 4. Sprint Review - o time apresenta o resultado e recebe avaliação do PO. 5. Retrospectiva - realizado após o review e é idenficado os pontos positivos e as melhorias, além disso é feita a costrução do plano de ação das melhorias para as próximas sprints.
+
+## 5. Scrum: Artefatos
+
+Para maximizar a transparência das informações, os artefatos foram projetados, sendo que esses são divididos em três categorias: Product Backlog, Sprint Backlog e o incremento. O primeiro é uma lista ordenada de tudo que é preciso para o produto. Já o segundo, é uma lista de itens selecionados (que foi acordado entre todos) do PB para a Sprint, após a definição não se altera esse período. O terceiro é o resultado da entrega que agrega funcionalidade e valor para o cliente.
+
+## 6. Scrum: refinamento de backlog
+
+O refinamento de backlog garante o entendimento de todos, além de ordernar por prioridade. Dessa forma, diminui o risco de implementação errada, desperdício de tempo e esforço. O PO deve priorizar o backlog, sendo que o backlog é totalmente flexível. O metódo Moscow auxilia o PO na sua priorização do backlog.
